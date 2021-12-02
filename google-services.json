@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "427548556051",
+    "firebase_url": "https://tomato-app-1dd78.firebaseio.com",
+    "project_id": "tomato-app-1dd78",
+    "storage_bucket": "tomato-app-1dd78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427548556051:android:d980a4b4289e810141f8e6",
+        "android_client_info": {
+          "package_name": "com.tomatomm.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "427548556051-1l47q3bfmp9n53unbu8nssl64qt8efej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMqOJUSgS8JkEePf7p_y4fu54PMZ3SyzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "427548556051-1l47q3bfmp9n53unbu8nssl64qt8efej.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "427548556051-nqc0fqoo2n05c6m5g4pn5a2idhrr49sv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tomatomm.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

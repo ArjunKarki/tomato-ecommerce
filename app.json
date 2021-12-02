@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "tomato",
+    "slug": "tomato",
+    "scheme": "tomato",
+    "version": "1.0.2",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.tomatomm.app",
+      "buildNumber": "1.0.2"
+    },
+    "android": {
+      "package": "com.tomatomm.app",
+      "versionCode": 4,
+      "googleServicesFile": "./google-services.json",
+      "permissions": []
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "Development - 1.1.21"
+  }
+}

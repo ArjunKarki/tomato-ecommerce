@@ -1,0 +1,84 @@
+{
+    "id": 71186,
+    "name": "Demo Product With Variation",
+    "type": "variable",
+    "brand": null,
+    "featured": false,
+    "description": "Demo Product",
+    "price": "1000",
+    "regular_price": "1000",
+    "sale_price": "",
+    "purchasable": true,
+    "total_sales": 0,
+    "virtual": false,
+    "downloadable": false,
+    "weight": "100",
+    "in_stock": true,
+    "dimensions": {
+        "length": "",
+        "width": "",
+        "height": ""
+    },
+    "average_rating": "0.00",
+    "rating_count": 0,
+    "attributes": [
+        {
+            "id": 9,
+            "name": "size",
+            "position": 0,
+            "visible": true,
+            "variation": true,
+            "options": [
+                "S",
+                "XL"
+            ]
+        },
+        {
+            "id": 73,
+            "name": "Weight",
+            "position": 1,
+            "visible": true,
+            "variation": true,
+            "options": [
+                "1.2kg"
+            ]
+        }
+    ],
+    "variations": [
+        {
+            "attributes": {
+                "attribute_pa_size": "s",
+                "attribute_pa_weight": "1-2kg"
+            },
+            "price": 1000,
+            "variation_id": 71187
+        },
+        {
+            "attributes": {
+                "attribute_pa_size": "xl",
+                "attribute_pa_weight": "1-2kg"
+            },
+            "price": 1500,
+            "variation_id": 71188
+        }
+    ],
+    "tags": [],
+    "images": [
+        "https:\/\/tomato.com.mm\/wp-content\/plugins\/woocommerce\/assets\/images\/placeholder.png"
+    ],
+    "store": {
+        "id": 453,
+        "name": "",
+        "url": "https:\/\/tomato.com.mm\/mall\/mdevvrsimplex-com\/",
+        "avatar": "https:\/\/secure.gravatar.com\/avatar\/a51603f28393cb310bf7743bebf8859e?s=96&d=mm&r=g",
+        "address": {
+            "street_1": "",
+            "street_2": "",
+            "city": "",
+            "zip": "",
+            "country": "",
+            "state": ""
+        }
+    },
+    "shipping_class": "tomato-standard"
+}

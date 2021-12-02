@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>427548556051-nqc0fqoo2n05c6m5g4pn5a2idhrr49sv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.427548556051-nqc0fqoo2n05c6m5g4pn5a2idhrr49sv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAwUsG1lN6RGT_sZwWkAvGLJmptdXbDL3E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>427548556051</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tomatomm.app</string>
+	<key>PROJECT_ID</key>
+	<string>tomato-app-1dd78</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tomato-app-1dd78.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:427548556051:ios:0476d59fb00f256f41f8e6</string>
+	<key>DATABASE_URL</key>
+	<string>https://tomato-app-1dd78.firebaseio.com</string>
+</dict>
+</plist>
